@@ -1,3 +1,5 @@
+Sales Forecasting and Demand Analysis
+
 This project focuses on forecasting future sales using historical business data. 
 It applies Machine Learning techniques and visualizes insights using Power BI to support data-driven business decisions.
 
